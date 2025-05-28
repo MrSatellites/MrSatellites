@@ -14,7 +14,6 @@
   <p><em>A French student deeply passionate about Computer Science. My core drive: <strong>Dedicated to continuous learning and comprehensive skill development.</strong>.</em></p>
   <p>I'm a lifelong learner focused on exploring the digital world, from the depths of software to the expanse of radio waves.</p>
   <p>
-    <a href="https://github.com/MrSatellites?tab=repositories"><img src="https://img.shields.io/github/stars/MrSatellites?style=for-the-badge&logo=github&label=Stars&color=gold" alt="GitHub Stars"></a>
     <img src="https://komarev.com/ghpvc/?username=MrSatellites&style=for-the-badge&color=blueviolet&label=Profile%20Views" alt="Profile Views"/>
     <a href="https://nchbeir.fr"><img src="https://img.shields.io/badge/Website-%234A90E2.svg?&style=for-the-badge&logo=Cloudflare&logoColor=white" alt="Website"></a>
   </p>
