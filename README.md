@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>🛰️ Hey there, I'm  MrSatellites! 📡</h1>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=800&size=29&duration=1000&pause=10000&color=F7F7F7&background=FFFFFF00&center=true&vCenter=true&random=true&width=435&lines=%F0%9F%9B%B0%EF%B8%8F+Hey+there%2C+I'm+MrSatellites!+%F0%9F%93%A1" alt="Typing SVG" /></a>
   <p><em>A French student deeply passionate about Computer Science. My core drive: <strong>Dedicated to continuous learning and comprehensive skill development.</strong>.</em></p>
   <p>I'm a lifelong learner focused on exploring the digital world, from the depths of software to the expanse of radio waves.</p>
   <p>
